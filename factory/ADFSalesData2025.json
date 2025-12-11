@@ -1,0 +1,9 @@
+{
+	"name": "ADFSalesData2025",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "89771ba6-f6cc-4805-8fb7-c84a0d4e6e7d",
+		"tenantId": "90bf6275-4cc0-4678-a121-bc78e0d4907f"
+	}
+}
